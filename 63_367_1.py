@@ -17,9 +17,9 @@ class Solution(object):
 
 solution = Solution()
 print solution.isPerfectSquare(16)
-# 4
+# True
 print solution.isPerfectSquare(8)
-# 21
+# False
 
 '''
 题目：
